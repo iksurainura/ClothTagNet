@@ -1,0 +1,8 @@
+
+path:/fabric_classification
+train:train
+val:val
+test:test
+
+nc: 2
+names:['good','defects']
