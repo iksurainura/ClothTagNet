@@ -8,3 +8,5 @@ opencv-python
 tqdm
 ultralytics
 seaborn
+pytesseract
+pillow
