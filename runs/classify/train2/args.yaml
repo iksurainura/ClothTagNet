@@ -1,7 +1,7 @@
 task: classify
 mode: train
 model: yolov8n-cls.pt
-data: fabric_classification
+data: /data.yml
 epochs: 50
 time: null
 patience: 10

@@ -1,0 +1,2 @@
+Damaged_label
+Good_label

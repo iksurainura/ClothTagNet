@@ -1,0 +1,7 @@
+path: data
+train: train/images
+val: validation/images
+nc: 2
+names:
+- Damaged_label
+- Good_label
